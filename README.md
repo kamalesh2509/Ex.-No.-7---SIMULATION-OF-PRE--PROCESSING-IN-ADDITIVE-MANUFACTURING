@@ -47,8 +47,8 @@
 
 ![241570012-71c3e282-2368-4deb-ac14-bb8fce9f1b05](https://github.com/kamalesh2509/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120444689/17d7ebc3-6f3d-450d-891a-abdd7ccdf944)
 
-### Name: Adhithya M R
-### Register Number: 212222240002
+### Name: E.kamalesh
+### Register Number:212222100019
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
